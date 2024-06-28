@@ -3,27 +3,9 @@
 A web app for managing all the activities of a library like managing members and book transactions, built on MERN Stack
 ![1](https://user-images.githubusercontent.com/73348574/205624307-6a1b18fa-5ef7-4de9-b141-9225eca62c6c.png)
 
-### Video Demo
+A Library Management System (LMS) built using the MERN stack (MongoDB, Express.js, React, and Node.js) is a modern web application that helps libraries manage their operations efficiently
 
-[Demo Link](https://drive.google.com/file/d/1gddUdOE41WaEyY4OWoJtDa0l6VJZTg94/view?usp=sharing)
 
-Show some ❤️ and 🌟 the repo to support the project
-
-## Index ✏️
-
-- [Library Management System 📚](#library-management-system-)
-  - [Video Demo](#video-demo)
-- [Index ✏️](#index-️)
-- [Features Of LCMS 🚀](#features-of-lcms-)
-- [Setup 🔥](#setup-)
-  - [Frontend Setup 🍧](#frontend-setup-)
-  - [Backend Setup 🍿](#backend-setup-)
-- [Technologies 🛠](#technologies-)
-- [Screenshots](#screenshots)
-- [References 💻](#references-)
-- [Author 📝](#author-)
-- [Connect Me On 🌍](#connect-me-on-)
-- [License 🏆](#license-)
 
 ## Features Of LCMS 🚀
 
@@ -67,7 +49,7 @@ Show some ❤️ and 🌟 the repo to support the project
 
 ## Technologies 🛠
 
-- ReactJS[Hooks]
+- ReactJS
 - NodeJs
 - ExpressJs
 - MongoDB
@@ -90,6 +72,6 @@ Show some ❤️ and 🌟 the repo to support the project
 
 ## Author 📝
 
-- [@iampranavdhar](https://github.com/patilsagar18)
+-sagar patil (https://github.com/patilsagar18)
 
 
